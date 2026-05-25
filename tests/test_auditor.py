@@ -1,6 +1,6 @@
 """
 Tests for SN Workforce Auditor.
-AGPL-3.0. Copyright (c) Vladimir Kapustin.
+Copyright (C) 2026 Vladimir Kapustin. Licensed under AGPL-3.0-only.
 """
 
 import json

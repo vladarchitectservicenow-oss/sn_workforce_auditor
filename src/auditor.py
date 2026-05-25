@@ -1,7 +1,6 @@
 """
-SN Workforce Auditor
-Audits ServiceNow Autonomous Workforce resolution claims.
-AGPL-3.0. Copyright (c) Vladimir Kapustin.
+SN Workforce Auditor — Audits ServiceNow Autonomous Workforce resolution claims.
+Copyright (C) 2026 Vladimir Kapustin. Licensed under AGPL-3.0-only.
 """
 
 import argparse
